@@ -1,0 +1,36 @@
+id,name,value_id,value_name,value_struct,values,attribute_group_id,attribute_group_name
+ALPHANUMERIC_MODEL,Modelo alfanumérico,2416193,A1842,,"[{'id': '2416193', 'name': 'A1842', 'struct': None}]",OTHERS,Otros
+AUDIO_AND_VIDEO_INTERFACES,Interfaces de audio y video,168328,HDMI,,"[{'id': '168328', 'name': 'HDMI', 'struct': None}]",OTHERS,Otros
+AUDIO_QUALITY,Calidad de audio,,"Dolby Digital Plus,Dolby Digital,Dolby Atmos",,"[{'id': '8836790', 'name': 'Dolby Digital Plus', 'struct': None}, {'id': None, 'name': 'Dolby Digital', 'struct': None}, {'id': '8828403', 'name': 'Dolby Atmos', 'struct': None}]",OTHERS,Otros
+BRAND,Marca,9344,Apple,,"[{'id': '9344', 'name': 'Apple', 'struct': None}]",OTHERS,Otros
+COLOR,Color,52049,Negro,,"[{'id': '52049', 'name': 'Negro', 'struct': None}]",OTHERS,Otros
+COMPATIBLE_APPLICATIONS,Aplicaciones compatibles,,"Netflix,Hulu,MLB.TV,HBO Now,Bloomberg TV,CNN,NBA,Amazon Prime Video,ESPN,DirecTV Now,YouTube TV,Sling TV,Disney+,Apple TV+,HBO Max",,"[{'id': '2390183', 'name': 'Netflix', 'struct': None}, {'id': '2526430', 'name': 'Hulu', 'struct': None}, {'id': None, 'name': 'MLB.TV', 'struct': None}, {'id': '2526434', 'name': 'HBO Now', 'struct': None}, {'id': None, 'name': 'Bloomberg TV', 'struct': None}, {'id': None, 'name': 'CNN', 'struct': None}, {'id': None, 'name': 'NBA', 'struct': None}, {'id': '2526436', 'name': 'Amazon Prime Video', 'struct': None}, {'id': '2526432', 'name': 'ESPN', 'struct': None}, {'id': None, 'name': 'DirecTV Now', 'struct': None}, {'id': None, 'name': 'YouTube TV', 'struct': None}, {'id': None, 'name': 'Sling TV', 'struct': None}, {'id': None, 'name': 'Disney+', 'struct': None}, {'id': None, 'name': 'Apple TV+', 'struct': None}, {'id': None, 'name': 'HBO Max', 'struct': None}]",OTHERS,Otros
+COMPATIBLE_DEVICES,Dispositivos compatibles,,"Televisores,Celulares,Tablets,Computadoras",,"[{'id': None, 'name': 'Televisores', 'struct': None}, {'id': '168365', 'name': 'Celulares', 'struct': None}, {'id': '168366', 'name': 'Tablets', 'struct': None}, {'id': None, 'name': 'Computadoras', 'struct': None}]",OTHERS,Otros
+CPU,CPU,7601524,Apple A10X Fusion,,"[{'id': '7601524', 'name': 'Apple A10X Fusion', 'struct': None}]",OTHERS,Otros
+DEVICE_FORMAT,Formato del dispositivo,8616495,TV Box,,"[{'id': '8616495', 'name': 'TV Box', 'struct': None}]",OTHERS,Otros
+GRAPHICS_PROCESSOR,Procesador gráfico,175071,PowerVR GX6450,,"[{'id': '175071', 'name': 'PowerVR GX6450', 'struct': None}]",OTHERS,Otros
+GTIN,Código universal de producto,,190198463838,,"[{'id': None, 'name': '190198463838', 'struct': None}]",OTHERS,Otros
+HEIGHT,Altura,8268247,35 mm,"{'number': 35, 'unit': 'mm'}","[{'id': '8268247', 'name': '35 mm', 'struct': {'number': 35, 'unit': 'mm'}}]",OTHERS,Otros
+INCLUDES_POWER_ADAPTER,Incluye adaptador de corriente,242085,Sí,,"[{'id': '242085', 'name': 'Sí', 'struct': None}]",OTHERS,Otros
+ITEM_CONDITION,Condición del ítem,2230284,Nuevo,,"[{'id': '2230284', 'name': 'Nuevo', 'struct': None}]",OTHERS,Otros
+LENGTH,Largo,9698593,98 mm,"{'number': 98, 'unit': 'mm'}","[{'id': '9698593', 'name': '98 mm', 'struct': {'number': 98, 'unit': 'mm'}}]",OTHERS,Otros
+LINE,Línea,,4k 32GB,,"[{'id': None, 'name': '4k 32GB', 'struct': None}]",OTHERS,Otros
+MAXIMUM_VIDEO_RESOLUTION,Resolución máxima de video,8262647,4K,,"[{'id': '8262647', 'name': '4K', 'struct': None}]",OTHERS,Otros
+MIN_OPERATING_SYSTEMS_REQUIRED,Sistemas operativos mínimos requeridos,189046,iOS,,"[{'id': '189046', 'name': 'iOS', 'struct': None}]",OTHERS,Otros
+MODEL,Modelo,4444590,Apple TV 4K,,"[{'id': '4444590', 'name': 'Apple TV 4K', 'struct': None}]",OTHERS,Otros
+MPN,MPN,10736151,MXGY2CL/A,,"[{'id': '10736151', 'name': 'MXGY2CL/A', 'struct': None}]",OTHERS,Otros
+OPERATING_SYSTEM,Sistema operativo,7601525,tvOS 11,,"[{'id': '7601525', 'name': 'tvOS 11', 'struct': None}]",OTHERS,Otros
+PACKAGE_HEIGHT,Altura del paquete,,6.8 cm,"{'number': 6.8, 'unit': 'cm'}","[{'id': None, 'name': '6.8 cm', 'struct': {'number': 6.8, 'unit': 'cm'}}]",OTHERS,Otros
+PACKAGE_LENGTH,Largo del paquete,,13.6 cm,"{'number': 13.6, 'unit': 'cm'}","[{'id': None, 'name': '13.6 cm', 'struct': {'number': 13.6, 'unit': 'cm'}}]",OTHERS,Otros
+PACKAGE_WEIGHT,Peso del paquete,,780 g,"{'number': 780, 'unit': 'g'}","[{'id': None, 'name': '780 g', 'struct': {'number': 780, 'unit': 'g'}}]",OTHERS,Otros
+PACKAGE_WIDTH,Ancho del paquete,,16.4 cm,"{'number': 16.4, 'unit': 'cm'}","[{'id': None, 'name': '16.4 cm', 'struct': {'number': 16.4, 'unit': 'cm'}}]",OTHERS,Otros
+PORTS_AND_CONNECTORS_TYPES,Tipos de puertos y conectores,,"Apple power supply,Ethernet,IR",,"[{'id': '7627530', 'name': 'Apple power supply', 'struct': None}, {'id': '7627528', 'name': 'Ethernet', 'struct': None}, {'id': None, 'name': 'IR', 'struct': None}]",OTHERS,Otros
+RAM_MEMORY,Memoria RAM,98970,3 GB,"{'number': 3, 'unit': 'GB'}","[{'id': '98970', 'name': '3 GB', 'struct': {'number': 3, 'unit': 'GB'}}]",OTHERS,Otros
+REMOTE_CONTROL_TYPE,Tipo de control remoto,182133,De voz,,"[{'id': '182133', 'name': 'De voz', 'struct': None}]",OTHERS,Otros
+SELLER_SKU,SKU,,MQD22LE/A,,"[{'id': None, 'name': 'MQD22LE/A', 'struct': None}]",OTHERS,Otros
+STORAGE_CAPACITY,Capacidad de almacenamiento,18621,32 GB,"{'number': 32, 'unit': 'GB'}","[{'id': '18621', 'name': '32 GB', 'struct': {'number': 32, 'unit': 'GB'}}]",OTHERS,Otros
+STREAMING_TECHNOLOGY,Tecnología de streaming,2174273,AirPlay,,"[{'id': '2174273', 'name': 'AirPlay', 'struct': None}]",OTHERS,Otros
+WIDTH,Ancho,8055500,98 mm,"{'number': 98, 'unit': 'mm'}","[{'id': '8055500', 'name': '98 mm', 'struct': {'number': 98, 'unit': 'mm'}}]",OTHERS,Otros
+WITH_BLUETOOTH,Con Bluetooth,242085,Sí,,"[{'id': '242085', 'name': 'Sí', 'struct': None}]",OTHERS,Otros
+WITH_WI_FI,Con Wi-Fi,242085,Sí,,"[{'id': '242085', 'name': 'Sí', 'struct': None}]",OTHERS,Otros
+WI_FI_STANDARDS,Estándares Wi-Fi,,"2.4GHz,5GHz",,"[{'id': '9234858', 'name': '2.4GHz', 'struct': None}, {'id': None, 'name': '5GHz', 'struct': None}]",OTHERS,Otros
